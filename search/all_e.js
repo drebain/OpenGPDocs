@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['pan_5fsensitivity',['pan_sensitivity',['../class_open_g_p_1_1_trackball_component.html#a45213f7a645e0d781cc7d81dbfe1c1d6',1,'OpenGP::TrackballComponent']]],
   ['parameter_20structs',['Parameter structs',['../group__param__grp.html',1,'']]],
   ['point',['Point',['../class_open_g_p_1_1_sphere_mesh.html#acf1cf6d8bed9a333184934e32008f7d6',1,'OpenGP::SphereMesh']]],
   ['points',['points',['../class_open_g_p_1_1_surface_mesh.html#a01bd845c233b6ad8e022ae176cc84463',1,'OpenGP::SurfaceMesh']]],

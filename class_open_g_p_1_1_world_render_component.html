@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.11"/>
-<title>OpenGP: OpenGP::DepthRenderComponent Class Reference</title>
+<title>OpenGP: OpenGP::WorldRenderComponent Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -79,47 +79,47 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 
 <div id="nav-path" class="navpath">
   <ul>
-<li class="navelem"><b>OpenGP</b></li><li class="navelem"><a class="el" href="class_open_g_p_1_1_depth_render_component.html">DepthRenderComponent</a></li>  </ul>
+<li class="navelem"><b>OpenGP</b></li><li class="navelem"><a class="el" href="class_open_g_p_1_1_world_render_component.html">WorldRenderComponent</a></li>  </ul>
 </div>
 </div><!-- top -->
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
-<a href="class_open_g_p_1_1_depth_render_component-members.html">List of all members</a>  </div>
+<a href="class_open_g_p_1_1_world_render_component-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">OpenGP::DepthRenderComponent Class Reference</div>  </div>
+<div class="title">OpenGP::WorldRenderComponent Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 
-<p>A component representing some geometry that may be rendered to a depthmap.  
- <a href="class_open_g_p_1_1_depth_render_component.html#details">More...</a></p>
+<p>A component representing some visible object that may be rendered by a camera.  
+ <a href="class_open_g_p_1_1_world_render_component.html#details">More...</a></p>
 
-<p><code>#include &lt;<a class="el" href="_depth_render_component_8h_source.html">DepthRenderComponent.h</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="_world_render_component_8h_source.html">WorldRenderComponent.h</a>&gt;</code></p>
 <div class="dynheader">
-Inheritance diagram for OpenGP::DepthRenderComponent:</div>
+Inheritance diagram for OpenGP::WorldRenderComponent:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="class_open_g_p_1_1_depth_render_component.png" usemap="#OpenGP::DepthRenderComponent_map" alt=""/>
-  <map id="OpenGP::DepthRenderComponent_map" name="OpenGP::DepthRenderComponent_map">
+  <img src="class_open_g_p_1_1_world_render_component.png" usemap="#OpenGP::WorldRenderComponent_map" alt=""/>
+  <map id="OpenGP::WorldRenderComponent_map" name="OpenGP::WorldRenderComponent_map">
 <area href="class_open_g_p_1_1_component.html" title="The base class for all components. " alt="OpenGP::Component" shape="rect" coords="0,0,203,24"/>
 </map>
  </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a5476a499638b6a4f92f420c4e2e9450a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_open_g_p_1_1_depth_render_component.html#a5476a499638b6a4f92f420c4e2e9450a">init</a> ()</td></tr>
-<tr class="memdesc:a5476a499638b6a4f92f420c4e2e9450a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Overridable method that handles object initialization.  <a href="#a5476a499638b6a4f92f420c4e2e9450a">More...</a><br /></td></tr>
-<tr class="separator:a5476a499638b6a4f92f420c4e2e9450a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5c3051117329a5fba64c200a4ad0f137"><td class="memTemplParams" colspan="2"><a class="anchor" id="a5c3051117329a5fba64c200a4ad0f137"></a>
+<tr class="memitem:a6748cc8253e3a2e8aa311fe71eeca084"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_open_g_p_1_1_world_render_component.html#a6748cc8253e3a2e8aa311fe71eeca084">init</a> ()</td></tr>
+<tr class="memdesc:a6748cc8253e3a2e8aa311fe71eeca084"><td class="mdescLeft">&#160;</td><td class="mdescRight">Overridable method that handles object initialization.  <a href="#a6748cc8253e3a2e8aa311fe71eeca084">More...</a><br /></td></tr>
+<tr class="separator:a6748cc8253e3a2e8aa311fe71eeca084"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a081059fd4b8ec2ee57f8443fedbb7f5b"><td class="memTemplParams" colspan="2"><a class="anchor" id="a081059fd4b8ec2ee57f8443fedbb7f5b"></a>
 template&lt;typename T , typename... Args&gt; </td></tr>
-<tr class="memitem:a5c3051117329a5fba64c200a4ad0f137"><td class="memTemplItemLeft" align="right" valign="top">T &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="class_open_g_p_1_1_depth_render_component.html#a5c3051117329a5fba64c200a4ad0f137">set_renderer</a> (Args &amp;...args)</td></tr>
-<tr class="memdesc:a5c3051117329a5fba64c200a4ad0f137"><td class="mdescLeft">&#160;</td><td class="mdescRight">Construct a new renderer of type <code>T</code> with the given arguments. <br /></td></tr>
-<tr class="separator:a5c3051117329a5fba64c200a4ad0f137"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abc3cd90e29515681c686e1a070b428bd"><td class="memTemplParams" colspan="2">template&lt;typename T  = DepthmapRenderer&gt; </td></tr>
-<tr class="memitem:abc3cd90e29515681c686e1a070b428bd"><td class="memTemplItemLeft" align="right" valign="top">T &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="class_open_g_p_1_1_depth_render_component.html#abc3cd90e29515681c686e1a070b428bd">get_renderer</a> ()</td></tr>
-<tr class="memdesc:abc3cd90e29515681c686e1a070b428bd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a reference to the renderer.  <a href="#abc3cd90e29515681c686e1a070b428bd">More...</a><br /></td></tr>
-<tr class="separator:abc3cd90e29515681c686e1a070b428bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a081059fd4b8ec2ee57f8443fedbb7f5b"><td class="memTemplItemLeft" align="right" valign="top">T &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="class_open_g_p_1_1_world_render_component.html#a081059fd4b8ec2ee57f8443fedbb7f5b">set_renderer</a> (Args &amp;...args)</td></tr>
+<tr class="memdesc:a081059fd4b8ec2ee57f8443fedbb7f5b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Construct a new renderer of type <code>T</code> with the given arguments. <br /></td></tr>
+<tr class="separator:a081059fd4b8ec2ee57f8443fedbb7f5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aecec70594bccdb0d149653989d3375ab"><td class="memTemplParams" colspan="2">template&lt;typename T  = MaterialRenderer&gt; </td></tr>
+<tr class="memitem:aecec70594bccdb0d149653989d3375ab"><td class="memTemplItemLeft" align="right" valign="top">T &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="class_open_g_p_1_1_world_render_component.html#aecec70594bccdb0d149653989d3375ab">get_renderer</a> ()</td></tr>
+<tr class="memdesc:aecec70594bccdb0d149653989d3375ab"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a reference to the renderer.  <a href="#aecec70594bccdb0d149653989d3375ab">More...</a><br /></td></tr>
+<tr class="separator:aecec70594bccdb0d149653989d3375ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_class_open_g_p_1_1_component"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_class_open_g_p_1_1_component')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="class_open_g_p_1_1_component.html">OpenGP::Component</a></td></tr>
 <tr class="memitem:ad547b8d6d1d379ade1c877f8f2eb93a2 inherit pub_methods_class_open_g_p_1_1_component"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ad547b8d6d1d379ade1c877f8f2eb93a2"></a>
 virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_open_g_p_1_1_component.html#ad547b8d6d1d379ade1c877f8f2eb93a2">update</a> ()</td></tr>
@@ -164,25 +164,25 @@ template&lt;typename T &gt; </td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a34a165e6fdadd687ef241ec1ed275646"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a34a165e6fdadd687ef241ec1ed275646"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_open_g_p_1_1_depth_render_component.html#a34a165e6fdadd687ef241ec1ed275646">visible</a> = true</td></tr>
-<tr class="memdesc:a34a165e6fdadd687ef241ec1ed275646"><td class="mdescLeft">&#160;</td><td class="mdescRight">Should the object be rendered. <br /></td></tr>
-<tr class="separator:a34a165e6fdadd687ef241ec1ed275646"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aefe8de7af7768202b127d4be147b6b7d"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aefe8de7af7768202b127d4be147b6b7d"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_open_g_p_1_1_world_render_component.html#aefe8de7af7768202b127d4be147b6b7d">visible</a> = true</td></tr>
+<tr class="memdesc:aefe8de7af7768202b127d4be147b6b7d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Should the object be rendered. <br /></td></tr>
+<tr class="separator:aefe8de7af7768202b127d4be147b6b7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>A component representing some geometry that may be rendered to a depthmap. </p>
+<div class="textblock"><p>A component representing some visible object that may be rendered by a camera. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="abc3cd90e29515681c686e1a070b428bd"></a>
+<a class="anchor" id="aecec70594bccdb0d149653989d3375ab"></a>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename T  = DepthmapRenderer&gt; </div>
+template&lt;typename T  = MaterialRenderer&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">T&amp; OpenGP::DepthRenderComponent::get_renderer </td>
+          <td class="memname">T&amp; OpenGP::WorldRenderComponent::get_renderer </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -200,7 +200,7 @@ template&lt;typename T  = DepthmapRenderer&gt; </div>
 
 </div>
 </div>
-<a class="anchor" id="a5476a499638b6a4f92f420c4e2e9450a"></a>
+<a class="anchor" id="a6748cc8253e3a2e8aa311fe71eeca084"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -208,7 +208,7 @@ template&lt;typename T  = DepthmapRenderer&gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void OpenGP::DepthRenderComponent::init </td>
+          <td class="memname">void OpenGP::WorldRenderComponent::init </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -229,7 +229,7 @@ template&lt;typename T  = DepthmapRenderer&gt; </div>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/drebain/Workspace/research/OpenGPFork/src/OpenGP/GL/Components/<a class="el" href="_depth_render_component_8h_source.html">DepthRenderComponent.h</a></li>
+<li>/home/drebain/Workspace/research/OpenGPFork/src/OpenGP/GL/Components/<a class="el" href="_world_render_component_8h_source.html">WorldRenderComponent.h</a></li>
 </ul>
 </div><!-- contents -->
 <div id="footer">

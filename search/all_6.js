@@ -17,7 +17,7 @@ var searchData=
   ['get_5fpixel_5fscale',['get_pixel_scale',['../class_open_g_p_1_1_window.html#a4ddd7439d4ee54032e4bca65db8611ce',1,'OpenGP::Window']]],
   ['get_5fprojection',['get_projection',['../class_open_g_p_1_1_camera_component.html#a598e6a4c7ced29f916e10281b93d7364',1,'OpenGP::CameraComponent::get_projection() const '],['../class_open_g_p_1_1_camera_component.html#a2a34bde2b6b5ab4874c433bed8c74961',1,'OpenGP::CameraComponent::get_projection(int width, int height) const ']]],
   ['get_5fproperty',['get_property',['../class_open_g_p_1_1_global__properties.html#a7af76b532e92e9396297bfabf6fdbcb9',1,'OpenGP::Global_properties']]],
-  ['get_5frenderer',['get_renderer',['../class_open_g_p_1_1_depth_render_component.html#abc3cd90e29515681c686e1a070b428bd',1,'OpenGP::DepthRenderComponent']]],
+  ['get_5frenderer',['get_renderer',['../class_open_g_p_1_1_depth_render_component.html#abc3cd90e29515681c686e1a070b428bd',1,'OpenGP::DepthRenderComponent::get_renderer()'],['../class_open_g_p_1_1_world_render_component.html#aecec70594bccdb0d149653989d3375ab',1,'OpenGP::WorldRenderComponent::get_renderer()']]],
   ['get_5fscene',['get_scene',['../class_open_g_p_1_1_component.html#ad73f971d5d134c44267bbfb107cd5338',1,'OpenGP::Component::get_scene()'],['../class_open_g_p_1_1_component.html#a56455f0b87a4e9967cf848a8c5a28ca3',1,'OpenGP::Component::get_scene() const '],['../class_open_g_p_1_1_entity.html#a28214dcc2b6a98f3642748fc3bc916c7',1,'OpenGP::Entity::get_scene()']]],
   ['get_5fsize',['get_size',['../class_open_g_p_1_1_window.html#a1fe47f2ff657187c75100aaf10ba81f7',1,'OpenGP::Window']]],
   ['get_5ftext',['get_text',['../class_open_g_p_1_1_window_1_1_input.html#a977a481706f19e18045768ec781bcbaf',1,'OpenGP::Window::Input']]],

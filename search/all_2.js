@@ -5,6 +5,7 @@ var searchData=
   ['capture_5fmouse',['capture_mouse',['../class_open_g_p_1_1_window.html#a526b8bff136b701dd136a5aa7a94f8cd',1,'OpenGP::Window']]],
   ['carray',['CArray',['../classnanoflann_1_1_c_array.html',1,'nanoflann']]],
   ['ccw_5frotated_5fhalfedge',['ccw_rotated_halfedge',['../class_open_g_p_1_1_surface_mesh.html#a9741a73c925d629cbdb02893d38c6271',1,'OpenGP::SurfaceMesh']]],
+  ['center',['center',['../class_open_g_p_1_1_trackball_component.html#a5d681ebc3909a82eb356497223fe51a3',1,'OpenGP::TrackballComponent']]],
   ['checks',['checks',['../structnanoflann_1_1_search_params.html#a904f56b474fb6ff0aaa632e9329d9dda',1,'nanoflann::SearchParams']]],
   ['clear',['clear',['../class_open_g_p_1_1_sphere_mesh.html#a30e49a5fda50ed9a51eea3f2ee08b5a6',1,'OpenGP::SphereMesh::clear()'],['../class_open_g_p_1_1_surface_mesh.html#a3adabfe138616588035426367befdfff',1,'OpenGP::SurfaceMesh::clear()']]],
   ['close',['close',['../class_open_g_p_1_1_application.html#adf27d4cac46151c07fff12e14766a201',1,'OpenGP::Application::close()'],['../class_open_g_p_1_1_window.html#a0e0d564a0c9c2cdf8a208c1124a013a7',1,'OpenGP::Window::close()']]],

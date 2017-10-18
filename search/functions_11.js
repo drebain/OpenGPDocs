@@ -12,7 +12,7 @@ var searchData=
   ['set_5fhalfedge',['set_halfedge',['../class_open_g_p_1_1_surface_mesh.html#ac762b76d67f6cc49eb17eb19948aa21d',1,'OpenGP::SurfaceMesh::set_halfedge(Vertex v, Halfedge h)'],['../class_open_g_p_1_1_surface_mesh.html#a71141bb1096708a6baa167401b56ec58',1,'OpenGP::SurfaceMesh::set_halfedge(Face f, Halfedge h)']]],
   ['set_5fnext_5fhalfedge',['set_next_halfedge',['../class_open_g_p_1_1_surface_mesh.html#a0257f6675248075e80abaa1e7636b261',1,'OpenGP::SurfaceMesh']]],
   ['set_5fradius_5fand_5fclear',['set_radius_and_clear',['../classnanoflann_1_1_radius_result_set.html#ab9a7db08f60af2a5febe1f1a31d39208',1,'nanoflann::RadiusResultSet']]],
-  ['set_5frenderer',['set_renderer',['../class_open_g_p_1_1_depth_render_component.html#a5c3051117329a5fba64c200a4ad0f137',1,'OpenGP::DepthRenderComponent']]],
+  ['set_5frenderer',['set_renderer',['../class_open_g_p_1_1_depth_render_component.html#a5c3051117329a5fba64c200a4ad0f137',1,'OpenGP::DepthRenderComponent::set_renderer()'],['../class_open_g_p_1_1_world_render_component.html#a081059fd4b8ec2ee57f8443fedbb7f5b',1,'OpenGP::WorldRenderComponent::set_renderer()']]],
   ['set_5fsize',['set_size',['../class_open_g_p_1_1_window.html#a7f45487cf381578a805498934e047e5e',1,'OpenGP::Window']]],
   ['set_5ftitle',['set_title',['../class_open_g_p_1_1_window.html#a98dd34fbe2254cafdc6f0f3d991f9466',1,'OpenGP::Window']]],
   ['set_5funiform',['set_uniform',['../class_open_g_p_1_1_shader.html#a8f32713ebeade50030040cea818d9254',1,'OpenGP::Shader']]],

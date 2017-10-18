@@ -18,5 +18,6 @@ var searchData=
   ['resize',['resize',['../classnanoflann_1_1_c_array.html#aa2ea0cddf2a109c1b8a09ef348a7e8a6',1,'nanoflann::CArray']]],
   ['result_20set_20classes',['Result set classes',['../group__result__sets__grp.html',1,'']]],
   ['root_5fnode',['root_node',['../classnanoflann_1_1_k_d_tree_single_index_adaptor.html#a1dd45d22dddb21bdd30695ac5e443364',1,'nanoflann::KDTreeSingleIndexAdaptor']]],
+  ['rotate_5fsensitivity',['rotate_sensitivity',['../class_open_g_p_1_1_trackball_component.html#ae97553a6930a1623886aabad374647de',1,'OpenGP::TrackballComponent']]],
   ['run',['run',['../class_open_g_p_1_1_application.html#a9e7e536e9c6a7dccf46ab376a848aebf',1,'OpenGP::Application']]]
 ];

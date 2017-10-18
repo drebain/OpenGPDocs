@@ -30,5 +30,5 @@ var searchData=
   ['vertices_5fsize',['vertices_size',['../class_open_g_p_1_1_sphere_mesh.html#a396b312b0912c7a7d0c9c7ef6ca947ae',1,'OpenGP::SphereMesh::vertices_size()'],['../class_open_g_p_1_1_surface_mesh.html#af369a483aa3382895f0aea7b724996e9',1,'OpenGP::SurfaceMesh::vertices_size()']]],
   ['vfov',['vfov',['../class_open_g_p_1_1_camera_component.html#a8ce0caafae9f0d36f4bc5dabfe56666d',1,'OpenGP::CameraComponent']]],
   ['vind',['vind',['../classnanoflann_1_1_k_d_tree_single_index_adaptor.html#a6d870be761aaf13d1a9b318d4d448469',1,'nanoflann::KDTreeSingleIndexAdaptor']]],
-  ['visible',['visible',['../class_open_g_p_1_1_depth_render_component.html#a34a165e6fdadd687ef241ec1ed275646',1,'OpenGP::DepthRenderComponent']]]
+  ['visible',['visible',['../class_open_g_p_1_1_depth_render_component.html#a34a165e6fdadd687ef241ec1ed275646',1,'OpenGP::DepthRenderComponent::visible()'],['../class_open_g_p_1_1_world_render_component.html#aefe8de7af7768202b127d4be147b6b7d',1,'OpenGP::WorldRenderComponent::visible()']]]
 ];
