@@ -1,6 +1,7 @@
 var searchData=
 [
   ['vertex',['Vertex',['../struct_open_g_p_1_1_surface_mesh_1_1_vertex.html',1,'OpenGP::SurfaceMesh']]],
+  ['vertex',['Vertex',['../struct_open_g_p_1_1_sphere_mesh_1_1_vertex.html',1,'OpenGP::SphereMesh']]],
   ['vertex_5faround_5fface_5fcirculator',['Vertex_around_face_circulator',['../class_open_g_p_1_1_surface_mesh_1_1_vertex__around__face__circulator.html',1,'OpenGP::SurfaceMesh']]],
   ['vertex_5faround_5fvertex_5fcirculator',['Vertex_around_vertex_circulator',['../class_open_g_p_1_1_surface_mesh_1_1_vertex__around__vertex__circulator.html',1,'OpenGP::SurfaceMesh']]],
   ['vertex_5fconnectivity',['Vertex_connectivity',['../struct_open_g_p_1_1_surface_mesh_1_1_vertex__connectivity.html',1,'OpenGP::SurfaceMesh']]],

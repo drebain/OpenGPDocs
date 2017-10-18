@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['face',['Face',['../struct_open_g_p_1_1_sphere_mesh_1_1_face.html',1,'OpenGP::SphereMesh']]],
   ['face',['Face',['../struct_open_g_p_1_1_surface_mesh_1_1_face.html',1,'OpenGP::SurfaceMesh']]],
   ['face_5faround_5fvertex_5fcirculator',['Face_around_vertex_circulator',['../class_open_g_p_1_1_surface_mesh_1_1_face__around__vertex__circulator.html',1,'OpenGP::SurfaceMesh']]],
   ['face_5fconnectivity',['Face_connectivity',['../struct_open_g_p_1_1_surface_mesh_1_1_face__connectivity.html',1,'OpenGP::SurfaceMesh']]],

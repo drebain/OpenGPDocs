@@ -17,6 +17,12 @@ var searchData=
   ['setup_5fmodelview',['setup_modelview',['../class_q_g_l_mesh_lab_viewer.html#a85735ce70b1dc0cb67ea4db5830237f9',1,'QGLMeshLabViewer']]],
   ['should_5fclose',['should_close',['../class_open_g_p_1_1_window.html#a5b7eab483e6b4cc944be32d46450f860',1,'OpenGP::Window']]],
   ['size',['size',['../classnanoflann_1_1_k_d_tree_single_index_adaptor.html#a197f7417c238e35ad36738c450696155',1,'nanoflann::KDTreeSingleIndexAdaptor']]],
+  ['sphere',['Sphere',['../struct_open_g_p_1_1_sphere_mesh_1_1_sphere.html#a5aadb68c4210e5ff92ed7afbb4b98372',1,'OpenGP::SphereMesh::Sphere']]],
+  ['spheremesh',['SphereMesh',['../class_open_g_p_1_1_sphere_mesh.html#a12868930f231a9e3f5a56cc10b1d45db',1,'OpenGP::SphereMesh']]],
+  ['spheres',['spheres',['../class_open_g_p_1_1_sphere_mesh.html#a82d9eb841b3251f5ad992dddc2f677e0',1,'OpenGP::SphereMesh']]],
+  ['spheres_5fbegin',['spheres_begin',['../class_open_g_p_1_1_sphere_mesh.html#a2280a20ee473918bc0c0cdd6c4933191',1,'OpenGP::SphereMesh']]],
+  ['spheres_5fend',['spheres_end',['../class_open_g_p_1_1_sphere_mesh.html#a19ec527835f2c836877c99408e1ba4bb',1,'OpenGP::SphereMesh']]],
+  ['spheres_5fsize',['spheres_size',['../class_open_g_p_1_1_sphere_mesh.html#af65437ca3bd5ccb4195e520f7fb8362f',1,'OpenGP::SphereMesh']]],
   ['split',['split',['../class_open_g_p_1_1_surface_mesh.html#a535bc2ad55eb7c716e92a8b4723ce650',1,'OpenGP::SurfaceMesh::split(Face f, const Vec3 &amp;p)'],['../class_open_g_p_1_1_surface_mesh.html#aed5750c8742708c01d028f98b2543813',1,'OpenGP::SurfaceMesh::split(Face f, Vertex v)'],['../class_open_g_p_1_1_surface_mesh.html#a1d4368f7faa1bc8356be123ed8f1c94e',1,'OpenGP::SurfaceMesh::split(Edge e, const Vec3 &amp;p)'],['../class_open_g_p_1_1_surface_mesh.html#aba0edf67c7502c7aae34f90cc292ab2a',1,'OpenGP::SurfaceMesh::split(Edge e, Vertex v)']]],
   ['surfacemesh',['SurfaceMesh',['../class_open_g_p_1_1_surface_mesh.html#ad63449accf6993ddd91bf8a2af87715e',1,'OpenGP::SurfaceMesh::SurfaceMesh()'],['../class_open_g_p_1_1_surface_mesh.html#ac72e63729b0d734578875fac48f2a9fe',1,'OpenGP::SurfaceMesh::SurfaceMesh(const SurfaceMesh &amp;rhs)']]]
 ];

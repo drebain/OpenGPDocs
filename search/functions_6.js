@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['garbage_5fcollection',['garbage_collection',['../class_open_g_p_1_1_surface_mesh.html#a50bae0a1df19ffd477fda198c7a667bb',1,'OpenGP::SurfaceMesh']]],
+  ['garbage',['garbage',['../class_open_g_p_1_1_sphere_mesh.html#a3e7b4c34493ddac68919a9bf07787671',1,'OpenGP::SphereMesh']]],
+  ['garbage_5fcollection',['garbage_collection',['../class_open_g_p_1_1_sphere_mesh.html#a44b91b3e65b16dd780db4dd0bafb046b',1,'OpenGP::SphereMesh::garbage_collection()'],['../class_open_g_p_1_1_surface_mesh.html#a50bae0a1df19ffd477fda198c7a667bb',1,'OpenGP::SurfaceMesh::garbage_collection()']]],
   ['get',['get',['../class_open_g_p_1_1_component.html#a830c1ad8fcbb94f78effea9a8889ba9c',1,'OpenGP::Component::get()'],['../class_open_g_p_1_1_component.html#a4c5263675ca3895c66c06a61b40f3c71',1,'OpenGP::Component::get() const '],['../class_open_g_p_1_1_entity.html#a08d8bf126e5a893a8e37d38b5ed77b58',1,'OpenGP::Entity::get() const '],['../class_open_g_p_1_1_entity.html#af8b890537678d0a8297427e94d0013d4',1,'OpenGP::Entity::get()']]],
   ['get_5fedge_5fproperty',['get_edge_property',['../class_open_g_p_1_1_surface_mesh.html#a861117410179fea7aeaa377d9eb83094',1,'OpenGP::SurfaceMesh']]],
   ['get_5fedge_5fproperty_5ftype',['get_edge_property_type',['../class_open_g_p_1_1_surface_mesh.html#a2ec6f27be502753c245aa81615b799d6',1,'OpenGP::SurfaceMesh']]],
