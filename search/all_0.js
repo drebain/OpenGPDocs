@@ -7,6 +7,7 @@ var searchData=
   ['add_5fface_5fproperty',['add_face_property',['../class_open_g_p_1_1_surface_mesh.html#a9bd42b305af291b75b08d643592365ac',1,'OpenGP::SurfaceMesh']]],
   ['add_5ffshader_5ffrom_5fsource',['add_fshader_from_source',['../class_open_g_p_1_1_shader.html#aa8c45dcd83e2a1105fdc3309a265ee48',1,'OpenGP::Shader']]],
   ['add_5fhalfedge_5fproperty',['add_halfedge_property',['../class_open_g_p_1_1_surface_mesh.html#a9820779f524dbd1ec4cfd886f1f7e5f8',1,'OpenGP::SurfaceMesh']]],
+  ['add_5flistener',['add_listener',['../class_open_g_p_1_1_event_provider.html#a2182fa1f9ca09ada8b0079d793dca96b',1,'OpenGP::EventProvider::add_listener(ListenerType listener)'],['../class_open_g_p_1_1_event_provider.html#afe8095ab1acf0e868a960cf896cb96e4',1,'OpenGP::EventProvider::add_listener(ListenerType listener, const EventSentinel &amp;sentinel)']]],
   ['add_5fproperty',['add_property',['../class_open_g_p_1_1_global__properties.html#a94c2b45401d07d0bad116aef5dc4919e',1,'OpenGP::Global_properties::add_property(const std::string &amp;name)'],['../class_open_g_p_1_1_global__properties.html#ae1648fcbb6c4d2c2ef9f726b6a0c8045',1,'OpenGP::Global_properties::add_property(const std::string &amp;name, const T &amp;initval)']]],
   ['add_5fquad',['add_quad',['../class_open_g_p_1_1_surface_mesh.html#aacfc2c77dbc0ee05098f55e7ffa063b1',1,'OpenGP::SurfaceMesh']]],
   ['add_5fshader_5ffrom_5fsource',['add_shader_from_source',['../class_open_g_p_1_1_shader.html#a11df680d43a849a3c6611a33b95fe8b3',1,'OpenGP::Shader']]],

@@ -1,13 +1,12 @@
 var searchData=
 [
-  ['face',['Face',['../struct_open_g_p_1_1_sphere_mesh_1_1_face.html',1,'OpenGP::SphereMesh']]],
-  ['face',['Face',['../struct_open_g_p_1_1_surface_mesh_1_1_face.html',1,'OpenGP::SurfaceMesh']]],
-  ['face_5faround_5fvertex_5fcirculator',['Face_around_vertex_circulator',['../class_open_g_p_1_1_surface_mesh_1_1_face__around__vertex__circulator.html',1,'OpenGP::SurfaceMesh']]],
-  ['face_5fconnectivity',['Face_connectivity',['../struct_open_g_p_1_1_surface_mesh_1_1_face__connectivity.html',1,'OpenGP::SurfaceMesh']]],
-  ['face_5fcontainer',['Face_container',['../class_open_g_p_1_1_surface_mesh_1_1_face__container.html',1,'OpenGP::SurfaceMesh']]],
-  ['face_5fiterator',['Face_iterator',['../class_open_g_p_1_1_surface_mesh_1_1_face__iterator.html',1,'OpenGP::SurfaceMesh']]],
-  ['face_5fproperty',['Face_property',['../class_open_g_p_1_1_surface_mesh_1_1_face__property.html',1,'OpenGP::SurfaceMesh']]],
-  ['face_5fproperty_3c_20bool_20_3e',['Face_property&lt; bool &gt;',['../class_open_g_p_1_1_surface_mesh_1_1_face__property.html',1,'OpenGP::SurfaceMesh']]],
-  ['face_5fproperty_3c_20opengp_3a_3asurfacemesh_3a_3aface_5fconnectivity_20_3e',['Face_property&lt; OpenGP::SurfaceMesh::Face_connectivity &gt;',['../class_open_g_p_1_1_surface_mesh_1_1_face__property.html',1,'OpenGP::SurfaceMesh']]],
-  ['face_5fproperty_3c_20vec3_20_3e',['Face_property&lt; Vec3 &gt;',['../class_open_g_p_1_1_surface_mesh_1_1_face__property.html',1,'OpenGP::SurfaceMesh']]]
+  ['edge',['Edge',['../struct_open_g_p_1_1_sphere_mesh_1_1_edge.html',1,'OpenGP::SphereMesh']]],
+  ['edge',['Edge',['../struct_open_g_p_1_1_surface_mesh_1_1_edge.html',1,'OpenGP::SurfaceMesh']]],
+  ['edge_5fcontainer',['Edge_container',['../class_open_g_p_1_1_surface_mesh_1_1_edge__container.html',1,'OpenGP::SurfaceMesh']]],
+  ['edge_5fiterator',['Edge_iterator',['../class_open_g_p_1_1_surface_mesh_1_1_edge__iterator.html',1,'OpenGP::SurfaceMesh']]],
+  ['edge_5fproperty',['Edge_property',['../class_open_g_p_1_1_surface_mesh_1_1_edge__property.html',1,'OpenGP::SurfaceMesh']]],
+  ['edge_5fproperty_3c_20bool_20_3e',['Edge_property&lt; bool &gt;',['../class_open_g_p_1_1_surface_mesh_1_1_edge__property.html',1,'OpenGP::SurfaceMesh']]],
+  ['entity',['Entity',['../class_open_g_p_1_1_entity.html',1,'OpenGP']]],
+  ['eventprovider',['EventProvider',['../class_open_g_p_1_1_event_provider.html',1,'OpenGP']]],
+  ['eventsentinel',['EventSentinel',['../class_open_g_p_1_1_event_sentinel.html',1,'OpenGP']]]
 ];

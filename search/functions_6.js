@@ -15,11 +15,15 @@ var searchData=
   ['get_5fkey',['get_key',['../class_open_g_p_1_1_window_1_1_input.html#a4c490fa1b082ab09dcd1927bdf2d7639',1,'OpenGP::Window::Input']]],
   ['get_5fmouse',['get_mouse',['../class_open_g_p_1_1_window_1_1_input.html#ae9568cef444df49ba20ed08671d0ad02',1,'OpenGP::Window::Input']]],
   ['get_5fpixel_5fscale',['get_pixel_scale',['../class_open_g_p_1_1_window.html#a4ddd7439d4ee54032e4bca65db8611ce',1,'OpenGP::Window']]],
+  ['get_5fprojection',['get_projection',['../class_open_g_p_1_1_camera_component.html#a598e6a4c7ced29f916e10281b93d7364',1,'OpenGP::CameraComponent::get_projection() const '],['../class_open_g_p_1_1_camera_component.html#a2a34bde2b6b5ab4874c433bed8c74961',1,'OpenGP::CameraComponent::get_projection(int width, int height) const ']]],
   ['get_5fproperty',['get_property',['../class_open_g_p_1_1_global__properties.html#a7af76b532e92e9396297bfabf6fdbcb9',1,'OpenGP::Global_properties']]],
+  ['get_5frenderer',['get_renderer',['../class_open_g_p_1_1_depth_render_component.html#abc3cd90e29515681c686e1a070b428bd',1,'OpenGP::DepthRenderComponent']]],
   ['get_5fscene',['get_scene',['../class_open_g_p_1_1_component.html#ad73f971d5d134c44267bbfb107cd5338',1,'OpenGP::Component::get_scene()'],['../class_open_g_p_1_1_component.html#a56455f0b87a4e9967cf848a8c5a28ca3',1,'OpenGP::Component::get_scene() const '],['../class_open_g_p_1_1_entity.html#a28214dcc2b6a98f3642748fc3bc916c7',1,'OpenGP::Entity::get_scene()']]],
   ['get_5fsize',['get_size',['../class_open_g_p_1_1_window.html#a1fe47f2ff657187c75100aaf10ba81f7',1,'OpenGP::Window']]],
   ['get_5ftext',['get_text',['../class_open_g_p_1_1_window_1_1_input.html#a977a481706f19e18045768ec781bcbaf',1,'OpenGP::Window::Input']]],
   ['get_5funiform',['get_uniform',['../class_open_g_p_1_1_shader.html#a8f2e75d5bab4130c185034ccc66783e6',1,'OpenGP::Shader']]],
   ['get_5fvertex_5fproperty',['get_vertex_property',['../class_open_g_p_1_1_surface_mesh.html#a49a79a62cd065f66edc0dff5ddb6687e',1,'OpenGP::SurfaceMesh']]],
-  ['get_5fvertex_5fproperty_5ftype',['get_vertex_property_type',['../class_open_g_p_1_1_surface_mesh.html#a84fb77097285be6cdd85d3505e81fbb8',1,'OpenGP::SurfaceMesh']]]
+  ['get_5fvertex_5fproperty_5ftype',['get_vertex_property_type',['../class_open_g_p_1_1_surface_mesh.html#a84fb77097285be6cdd85d3505e81fbb8',1,'OpenGP::SurfaceMesh']]],
+  ['get_5fview',['get_view',['../class_open_g_p_1_1_camera_component.html#a655c0bd9fad42986de36838e0e791458',1,'OpenGP::CameraComponent']]],
+  ['get_5fwindow',['get_window',['../class_open_g_p_1_1_camera_component.html#a474125bc448fd2a0e65206b99a06b143',1,'OpenGP::CameraComponent']]]
 ];

@@ -2,7 +2,7 @@ var searchData=
 [
   ['idx',['idx',['../class_open_g_p_1_1_sphere_mesh_1_1_base_handle.html#a03fdf7caa99c1609423b94dbda06439b',1,'OpenGP::SphereMesh::BaseHandle::idx()'],['../class_open_g_p_1_1_surface_mesh_1_1_base__handle.html#a3723f107f322ce21e9074249b3d799e2',1,'OpenGP::SurfaceMesh::Base_handle::idx()']]],
   ['indexdist_5fsorter',['IndexDist_Sorter',['../structnanoflann_1_1_index_dist___sorter.html',1,'nanoflann']]],
-  ['init',['init',['../class_open_g_p_1_1_component.html#ae74cab2b81e83fa892e439b4e6941718',1,'OpenGP::Component']]],
+  ['init',['init',['../class_open_g_p_1_1_camera_component.html#accf94601ea2c69dc812bca30006bc2e7',1,'OpenGP::CameraComponent::init()'],['../class_open_g_p_1_1_depth_render_component.html#a5476a499638b6a4f92f420c4e2e9450a',1,'OpenGP::DepthRenderComponent::init()'],['../class_open_g_p_1_1_gizmo_component.html#a396342f90066a1a48a3cb2ae020c652d',1,'OpenGP::GizmoComponent::init()'],['../class_open_g_p_1_1_component.html#ae74cab2b81e83fa892e439b4e6941718',1,'OpenGP::Component::init()']]],
   ['input',['Input',['../class_open_g_p_1_1_window_1_1_input.html',1,'OpenGP::Window']]],
   ['insert_5fedge',['insert_edge',['../class_open_g_p_1_1_surface_mesh.html#a1472304554c931b09c916a597c3a7e73',1,'OpenGP::SurfaceMesh']]],
   ['insert_5fvertex',['insert_vertex',['../class_open_g_p_1_1_surface_mesh.html#ae2f75d95ee3ed242556a919e7847d4a8',1,'OpenGP::SurfaceMesh::insert_vertex(Edge e, const Vec3 &amp;p)'],['../class_open_g_p_1_1_surface_mesh.html#ac031789707774634190bd8978b836197',1,'OpenGP::SurfaceMesh::insert_vertex(Edge e, Vertex v)'],['../class_open_g_p_1_1_surface_mesh.html#a3982c136026a06d57588185ce1f35d42',1,'OpenGP::SurfaceMesh::insert_vertex(Halfedge h, Vertex v)']]],

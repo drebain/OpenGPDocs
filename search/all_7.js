@@ -12,7 +12,7 @@ var searchData=
   ['halfedge_5fiterator',['Halfedge_iterator',['../class_open_g_p_1_1_surface_mesh_1_1_halfedge__iterator.html#a4c47095bfec11c3bf953e94e4cc8b725',1,'OpenGP::SurfaceMesh::Halfedge_iterator']]],
   ['halfedge_5fiterator',['Halfedge_iterator',['../class_open_g_p_1_1_surface_mesh_1_1_halfedge__iterator.html',1,'OpenGP::SurfaceMesh']]],
   ['halfedge_5fproperties',['halfedge_properties',['../class_open_g_p_1_1_surface_mesh.html#ab982a61330a2eb4bf0affb4fe8e995b5',1,'OpenGP::SurfaceMesh']]],
-  ['halfedge_5fproperty',['Halfedge_property',['../class_open_g_p_1_1_surface_mesh_1_1_halfedge__property.html#a2e4dcf8be5b0678d13b427f90c5be60f',1,'OpenGP::SurfaceMesh::Halfedge_property::Halfedge_property()'],['../class_open_g_p_1_1_surface_mesh.html#abbdd898243df2b8ef06ce23759f0b2c6',1,'OpenGP::SurfaceMesh::halfedge_property()']]],
+  ['halfedge_5fproperty',['halfedge_property',['../class_open_g_p_1_1_surface_mesh.html#abbdd898243df2b8ef06ce23759f0b2c6',1,'OpenGP::SurfaceMesh::halfedge_property()'],['../class_open_g_p_1_1_surface_mesh_1_1_halfedge__property.html#a2e4dcf8be5b0678d13b427f90c5be60f',1,'OpenGP::SurfaceMesh::Halfedge_property::Halfedge_property()']]],
   ['halfedge_5fproperty',['Halfedge_property',['../class_open_g_p_1_1_surface_mesh_1_1_halfedge__property.html',1,'OpenGP::SurfaceMesh']]],
   ['halfedge_5fproperty_3c_20opengp_3a_3asurfacemesh_3a_3ahalfedge_5fconnectivity_20_3e',['Halfedge_property&lt; OpenGP::SurfaceMesh::Halfedge_connectivity &gt;',['../class_open_g_p_1_1_surface_mesh_1_1_halfedge__property.html',1,'OpenGP::SurfaceMesh']]],
   ['halfedges',['halfedges',['../class_open_g_p_1_1_surface_mesh.html#a1ed6c8ae83c67b452c7e3e24533d622c',1,'OpenGP::SurfaceMesh::halfedges() const '],['../class_open_g_p_1_1_surface_mesh.html#a8ded4b1d1d942acfe87aca39312dc8ce',1,'OpenGP::SurfaceMesh::halfedges(Vertex v) const '],['../class_open_g_p_1_1_surface_mesh.html#adb556fbd59d9a37022b1e59563e31018',1,'OpenGP::SurfaceMesh::halfedges(Face f) const ']]],
@@ -31,5 +31,6 @@ var searchData=
   ['handleproperty_3c_20point_20_3e',['HandleProperty&lt; Point &gt;',['../class_open_g_p_1_1_sphere_mesh_1_1_handle_property.html',1,'OpenGP::SphereMesh']]],
   ['handleproperty_3c_20sphereconnectivity_20_3e',['HandleProperty&lt; SphereConnectivity &gt;',['../class_open_g_p_1_1_sphere_mesh_1_1_handle_property.html',1,'OpenGP::SphereMesh']]],
   ['has',['has',['../class_open_g_p_1_1_component.html#af8fe58136c84677cdc49422a6723e9f7',1,'OpenGP::Component::has()'],['../class_open_g_p_1_1_entity.html#a7592b08c795d5d86c42acf9cc63c3e6a',1,'OpenGP::Entity::has()']]],
+  ['has_5fwindow',['has_window',['../class_open_g_p_1_1_camera_component.html#a98934725da2808cd39d6e696aa375ebb',1,'OpenGP::CameraComponent']]],
   ['help',['help',['../class_q_g_l_mesh_lab_viewer.html#a1b3267c63ff3e088673916e7c416bc68',1,'QGLMeshLabViewer']]]
 ];

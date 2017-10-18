@@ -21,5 +21,7 @@ var searchData=
   ['empty',['empty',['../class_open_g_p_1_1_surface_mesh.html#a1e71bb6614d75d42e5432e3d661fb1c4',1,'OpenGP::SurfaceMesh']]],
   ['end',['end',['../class_open_g_p_1_1_sphere_mesh_1_1_handle_container.html#a5718c129d406f7b25bc667054391cc11',1,'OpenGP::SphereMesh::HandleContainer']]],
   ['entity',['Entity',['../class_open_g_p_1_1_entity.html',1,'OpenGP']]],
-  ['eps',['eps',['../structnanoflann_1_1_search_params.html#a64b9e7c56bbb743694f6188f616a94cc',1,'nanoflann::SearchParams']]]
+  ['eps',['eps',['../structnanoflann_1_1_search_params.html#a64b9e7c56bbb743694f6188f616a94cc',1,'nanoflann::SearchParams']]],
+  ['eventprovider',['EventProvider',['../class_open_g_p_1_1_event_provider.html',1,'OpenGP']]],
+  ['eventsentinel',['EventSentinel',['../class_open_g_p_1_1_event_sentinel.html',1,'OpenGP']]]
 ];

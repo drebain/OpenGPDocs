@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['released',['released',['../struct_open_g_p_1_1_key_event.html#aed1c7cf18984865f86f89d4f72322ae7',1,'OpenGP::KeyEvent::released()'],['../struct_open_g_p_1_1_mouse_button_event.html#a3f2c68b5ae5d87b244d8d282266b754d',1,'OpenGP::MouseButtonEvent::released()']]],
-  ['root_5fnode',['root_node',['../classnanoflann_1_1_k_d_tree_single_index_adaptor.html#a1dd45d22dddb21bdd30695ac5e443364',1,'nanoflann::KDTreeSingleIndexAdaptor']]]
+  ['pool',['pool',['../classnanoflann_1_1_k_d_tree_single_index_adaptor.html#ae8ccbdf98502c57ccc4206de59ed28e1',1,'nanoflann::KDTreeSingleIndexAdaptor']]],
+  ['position',['position',['../struct_open_g_p_1_1_mouse_move_event.html#a64abd12c5d98709f589934681e591534',1,'OpenGP::MouseMoveEvent']]],
+  ['prev_5fhalfedge_5f',['prev_halfedge_',['../struct_open_g_p_1_1_surface_mesh_1_1_halfedge__connectivity.html#a9ebbbffb26915be727d6b127ae7483f0',1,'OpenGP::SurfaceMesh::Halfedge_connectivity']]]
 ];
